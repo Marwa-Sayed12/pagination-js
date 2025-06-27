@@ -1,1 +1,1 @@
-# pagination-js       
+# pagination-js        
